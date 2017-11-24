@@ -15,7 +15,7 @@
 
 [Oriol Parcerisa](https://github.com/Vegeeto) 
 
-[Victor](https://github.com/Xictrov) 
+[Víctor Hervás](https://github.com/xictrov) 
 
 [Julen](https://github.com/Heshade)
 
